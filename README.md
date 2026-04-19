@@ -1,0 +1,2 @@
+# static-site
+Landing page
